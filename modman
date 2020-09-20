@@ -1,0 +1,5 @@
+app/code/community/VS7/CheckoutSubscribe                             app/code/community/VS7/CheckoutSubscribe
+app/etc/modules/VS7_CheckoutSubscribe.xml                            app/etc/modules/VS7_CheckoutSubscribe.xml
+app/design/frontend/base/default/layout/vs7_checkoutsubscribe.xml    app/design/frontend/base/default/layout/vs7_checkoutsubscribe.xml
+app/design/frontend/base/default/template/vs7_checkoutsubscribe      app/design/frontend/base/default/template/vs7_checkoutsubscribe
+skin/frontend/base/default/vs7_checkoutsubscribe                     skin/frontend/base/default/vs7_checkoutsubscribe
